@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="buttonStyle" parent="@style/Base.Theme.MyZodiac">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:backgroundTint">@color/ultraViolet</item>
+    </style>
+</resources>

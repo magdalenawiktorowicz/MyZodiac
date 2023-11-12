@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyZodiac</string>
+    <string name="fechaNacimiento">Fecha de nacimiento:</string>
+    <string name="fechaPlaceholder">25/07/1994</string>
+    <string name="btnAceptar">ACEPTAR</string>
+    <string name="mensaje">Has introducido una fecha incorrecta...</string>
+    <string name="edad">Tienes X años</string>
+    <string name="aries">ERES ARIES</string>
+    <string name="tauro">ERES TAURO</string>
+    <string name="geminis">ERES GEMINIS</string>
+    <string name="cancer">ERES CANCER</string>
+    <string name="leo">ERES LEO</string>
+    <string name="virgo">ERES VIRGO</string>
+    <string name="libra">ERES LIBRA</string>
+    <string name="escorpio">ERES ESCORPIO</string>
+    <string name="sagitario">ERES SAGITARIO</string>
+    <string name="capricornio">ERES CAPRICORNIO</string>
+    <string name="acuario">ERES ACUARIO</string>
+    <string name="piscis">ERES PISCIS</string>
+</resources>
